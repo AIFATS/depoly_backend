@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+fastapi[all]
+firebase-admin 
+requests
+isodate
+spotipy
+selenium
+webdriver-manager
+ytmusicapi
+beautifulsoup4
+yt-dlp
